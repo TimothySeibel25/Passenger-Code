@@ -1,0 +1,14 @@
+namespace Final_Exam_Code
+{
+    class Passenger
+    {
+        private string name;
+        private double weight;
+
+        string passengerName = name;
+        double passengerWeight = weight;
+        
+        public string getName()
+        public double getWeight()
+    }
+}
